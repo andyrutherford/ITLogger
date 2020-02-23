@@ -1,27 +1,5 @@
 {
-  "logs": [
-    {
-      "id": 2,
-      "message": "test2",
-      "attention": false,
-      "tech": "John Doe",
-      "date": "2020-02-22T09:31:23.272Z"
-    },
-    {
-      "id": 3,
-      "message": "fixed test",
-      "attention": false,
-      "tech": "John Doe",
-      "date": "2020-02-22T09:32:51.196Z"
-    },
-    {
-      "message": "test3",
-      "attention": true,
-      "tech": "Sam Smith",
-      "date": "2020-02-22T08:56:08.224Z",
-      "id": 4
-    }
-  ],
+  "logs": [],
   "techs": [
     {
       "id": 1,
@@ -37,6 +15,21 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Wilson"
+    },
+    {
+      "firstName": "Tom",
+      "lastName": "Williams",
+      "id": 4
+    },
+    {
+      "firstName": "John",
+      "lastName": "Smith",
+      "id": 5
+    },
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "id": 6
     }
   ]
 }
